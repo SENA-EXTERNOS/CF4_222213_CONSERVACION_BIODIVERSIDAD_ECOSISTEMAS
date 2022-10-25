@@ -33,6 +33,7 @@
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/imagen1-carrusel-tema3.png' alt='AvatarTop')
+              
             h4.texto-tarjetas-carrusel-tema3 Mira hidrométrica:
             p.texto-tarjetas-carrusel-tema3 instrumento que cuenta con una escala graduada para medir las fluctuaciones de agua en un punto determinado de corriente. Se instala sobre la orilla más próxima al sector profundo del cauce.
             br
@@ -43,7 +44,7 @@
             br
             br
             br
-            br
+
 
 
           .tarjeta.color-tarjetas-carrusel-tema3.p-4
@@ -63,8 +64,6 @@
             br
             br
             br
-            br
-
 
           .tarjeta.color-tarjetas-carrusel-tema3.p-4
             .row.justify-content-center.mb-3
@@ -75,7 +74,7 @@
             p.texto-tarjetas-carrusel-tema3 permite la observación de niveles de pozos en aguas subterráneas. Es un dispositivo simple, constituido por una polea, un contrapeso y un flotador unidos por un cable o cuerda.
             h4.texto-tarjetas-carrusel-tema3 Limnicontacto de sonda luminosa: 
             p.texto-tarjetas-carrusel-tema3 presenta un dispositivo al final que al hacer contacto con el agua emite un impulso eléctrico iluminando una lámpara de señal.
-            br
+            
 
           .tarjeta.color-tarjetas-carrusel-tema3.p-4
             .row.justify-content-center.mb-3
@@ -91,8 +90,9 @@
             br
             br
             br
-            br
+            
 
+            
           .tarjeta.color-tarjetas-carrusel-tema3.p-4
             .row.justify-content-center.mb-3
               .col-8
@@ -105,7 +105,8 @@
             br
             br
             br
-            br
+ 
+
 
                    
     br

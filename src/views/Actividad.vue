@@ -3,8 +3,6 @@
   BannerInterno
   //(icono="fas fa-tasks" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
     .titulo-principal.color-acento-contenido
         .titulo-principal__numero
@@ -27,7 +25,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Descripción de la actividad didáctica.
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/#')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/Actividad_didáctica_CF4_T_Manejo y conservación del recurso hídrico - Storyline output/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
