@@ -93,7 +93,7 @@
                 img(src="@/assets/curso/temas/imagen-cajon-tema1.png").imagen-cajon-tema1
     br
     p A continuación encontrará las características de cada uno de los ecosistemas mencionados anteriormente:
-      
+    br
     br
 
 

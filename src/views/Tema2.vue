@@ -46,9 +46,10 @@
         .col-lg-11.position-relative
           //h3.mb-4.text-center.txt--purpura Elementos determinantes para el análisis - CAC 
           .avatar
+            
+          .crd.crd--avatarHorizontal.crd--first.py-4.tarjeta1-conectadas-tema2
             figure
               img(src="@/assets/curso/temas/imagen-llave-agua-tema2.1.png", alt="alt").imagen-llaveagua-tema2
-          .crd.crd--avatarHorizontal.crd--first.py-4.tarjeta1-conectadas-tema2
             .row.align-items-center
               .col-auto
                 figure

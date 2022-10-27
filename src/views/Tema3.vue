@@ -36,14 +36,7 @@
               
             h4.texto-tarjetas-carrusel-tema3 Mira hidrométrica:
             p.texto-tarjetas-carrusel-tema3 instrumento que cuenta con una escala graduada para medir las fluctuaciones de agua en un punto determinado de corriente. Se instala sobre la orilla más próxima al sector profundo del cauce.
-            br
-            br
-            br
-            br
-            br
-            br
-            br
-            br
+            p.texto-oculto-tarjetas-tema3 Lorem ipsum dolor sit amet consectetur, adipisicing elit. At quos eveniet quia explicabo, est saepe nostrum, quasi quisquam voluptatum ut maxime porro. Quam ullam culpa rem accusamus totam vel. Obcaecati, elit
 
 
 
@@ -53,17 +46,8 @@
                 img(src='@/assets/curso/temas/imagen2-carrusel-tema3.png' alt='AvatarTop')
             h4.texto-tarjetas-carrusel-tema3 Maxímetro:
             p.texto-tarjetas-carrusel-tema3 está asociado a la mira hidrométrica ya que permite establecer el nivel máximo alcanzado por la creciente.
-            br
-            br
-            br
-            br
-            br
-            br
-            br
-            br
-            br
-            br
-            br
+            p.texto-oculto-tarjetas-tema3 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia excepturi recusandae ex aut expedita dolorem vero beatae quos ducimus blanditiis illum, ullam asperiores animi? Ad obcaecati iusto dicta deleniti eius, elit. Quia excepturi recusandae ex aut expedita dolorem vero beatae quos ducimus blanditiis
+
 
           .tarjeta.color-tarjetas-carrusel-tema3.p-4
             .row.justify-content-center.mb-3
@@ -82,14 +66,8 @@
                 img(src='@/assets/curso/temas/imagen4-carrusel-tema3.png' alt='AvatarTop')
             h4.texto-tarjetas-carrusel-tema3 Sonda de presión: 
             p.texto-tarjetas-carrusel-tema3 realiza las mediciones a través de una célula capacitiva que mide la presión hidrostática de la columna de agua a través de una membrana de presión que la transforma en señal eléctrica.
-            br
-            br
-            br
-            br
-            br
-            br
-            br
-            br
+            p.texto-oculto-tarjetas-tema3 Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quibusdam nesciunt modi, ratione dicta expedita vero. Sit eos tempore placeat adipisci est. Iusto fugiat, impedit sapiente provident repellat impedit sapiente provident repellat
+            
             
 
             
@@ -102,9 +80,7 @@
             p.texto-tarjetas-carrusel-tema3 es un equipo que registra los niveles de agua de forma continua. Se encuentra en una caja hermética, protegido de humedad y animales.
             h4.texto-tarjetas-carrusel-tema3 Limnígrafo digital: 
             p.texto-tarjetas-carrusel-tema3 consta de un decodificador, un panel de sensores y una antena con alimentación de batería. Reporta datos de forma casi inmediata mediante registro digital.
-            br
-            br
-            br
+            p.texto-oculto-tarjetas-tema3 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
  
 
 
