@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Manejo y conservación del recurso hídrico.',
+    componenteFormativo: 'Manejo y conservación del recurso hídrico',
     descripcionCurso:
       'El desarrollo natural del ecosistema permite acceder al recurso hídrico como fuente de vida. Al reconocer su importancia se establecen los métodos de manejo, conservación y monitoreo con el fin de promover su uso responsable en el marco del desarrollo sostenible del país.',
     imagenBannerPrincipal: require('@/assets/curso/portada/imagen-banner-principal.png'),
