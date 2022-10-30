@@ -10,7 +10,8 @@
 
     br
 
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 Después de terminar es necesario revisar esta síntesis de todo lo que se trató para tener una mirada resumida de su ruta de conocimiento a través de este componente formativo.
+
 
     .row.justify-content-center
       .col-lg-10.mb-5
