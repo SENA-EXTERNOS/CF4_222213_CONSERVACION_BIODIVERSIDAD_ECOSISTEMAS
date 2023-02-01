@@ -22,28 +22,15 @@
           .col-md.col-lg-4
             img(src="@/assets/curso/temas/imagen1-tema2 .png").imagen1-tema2
         
-    separador
-      
-    .row.justify-content-center.mb-4
-      
-      #manejo_y_uso_sostenible_del_agua
-      .titulo-segundo.color-acento-contenido
-        h2 2.1  Manejo y uso sostenible del agua
+    .row.mt-5
+      h4 Manejo y uso sostenible del agua
 
       p Continuar con un uso insostenible del agua tendrá un impacto negativo en la cantidad y la calidad ya que se reducirá la eficiencia y aumentará la contaminación; así, las generaciones futuras se verán amenazadas por la poca disponibilidad de cuencas hídricas, factor que estancará las dinámicas de crecimiento económico propuestas por el desarrollo sostenible.
-      
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      
+    
       
 
-      .row.justify-content-center.mb-5.bloque-tarjetas-tema2
-        .col-lg-11.position-relative
+      .row.justify-content-center.mb-5.bloque-tarjetas-tema2.mt-5
+        .col-lg-11.position-relative.mt-5
           //h3.mb-4.text-center.txt--purpura Elementos determinantes para el análisis - CAC 
           .avatar
             
@@ -88,18 +75,17 @@
           
           .col-7
             .bloque-texto-destacado-tema2.p-3
-              h4 Uso sostenible del agua
-              p.mb-0 El agua es un recurso fundamental para la vida, no obstante, en muchas ocasiones se hace un uso indiscriminado que a futuro se verá reflejado en sequías, enfermedades, inseguridad alimentaria, deforestación y un sinnúmero de consecuencias que desde ya podemos empezar a mitigar con pequeñas acciones como las señaladas a continuación.
+              h3 Uso sostenible del agua
+              p.mb-0 El agua es un recurso fundamental para la vida y, no obstante, en muchas ocasiones se hace un uso indiscriminado de ella, por lo que a futuro se verá reflejado en sequías, enfermedades, inseguridad alimentaria, deforestación y un sinnúmero de consecuencias que, desde ahora, podemos empezar a mitigar con pequeñas acciones.
 
-    br
-    br
-    .row.justify-content-around.align-items-center
+
+    .row.justify-content-around.align-items-center.mt-5
 
           figure
             img(src='@/assets/curso/temas/imagen-acciones-para-practicar.png', alt="alt").imagen-fondo-acciones-practicar-tema2
 
-          p Veamos algunas acciones que podemos empezar a practicar desde casa y desde la industria:
-          br
+          p ¿Qué acciones se pueden tomar desde casa y desde la industria, para ayudar?
+
           .col-6
               h4 Desde casa:
 
@@ -126,8 +112,8 @@
           .col-6
             figure
               img(src='@/assets/curso/temas/lavarse-manos-jabon.png', alt="alt").img100.imagen-bloque-texto-destacado-tema2
-    br
-    .row.justify-content-around.align-items-center
+
+    .row.justify-content-around.align-items-center.mt-5
 
         
         .col-6
@@ -157,27 +143,20 @@
                 i.fas.fa-circle
                 | Implementar la agricultura eficiente con sistemas de riego de aprovechamiento de agua
     
-    br
-    br
-    br
 
-    .row.justify-content-around.align-items-center
+    .row.justify-content-around.align-items-center.mt-5
       
       .col-lg-10
         
         .cajon.color-acento-contenido.p-4
           
-            p.bloque-texto-cajon-tema2.p-1 Teniendo en cuenta lo anterior, en 2015 la Organización de las Naciones Unidas adoptó los Objetivos de Desarrollo Sostenible (ODS), específicamente el objetivo seis que plantea: “Garantizar la disponibilidad de agua, su gestión sostenible y el saneamiento para todos”. Y que establece para 2030 “[…] aumentar sustancialmente la eficiencia en el consumo de agua para todos los sectores y lograr una extracción y un abastecimiento sostenible del agua dulce para hacer frente a la escasez y reducir sustancialmente el número de personas que la padecen” (Minambiente, 2018). Así mismo, en el plan de desarrollo ambiental en Colombia se establecen programas de ahorro y uso eficiente del agua con el fin de valorarla, reducir el consumo inadecuado y reutilizarla.
-            
-    br
-    br
-    br
-    br
-    
-    
-    .row.justify-content-around.align-items-center
+            p.bloque-texto-cajon-tema2.p-1 La Organización de las Naciones Unidas adoptó los Objetivos de Desarrollo Sostenible (ODS), específicamente el objetivo seis que plantea: “Garantizar la disponibilidad de agua, su gestión sostenible y el saneamiento para todos”. Y que establece para 2030 “[…] aumentar sustancialmente la eficiencia en el consumo de agua para todos los sectores y lograr una extracción y un abastecimiento sostenible del agua dulce para hacer frente a la escasez y reducir sustancialmente el número de personas que la padecen” (Minambiente, 2018). Así mismo, en el plan de desarrollo ambiental en Colombia se establecen programas de ahorro y uso eficiente del agua con el fin de valorarla, reducir el consumo inadecuado y reutilizarla.
 
-      p Veamos a continuación los diferentes programas de ahorro y uso eficiente del agua que se han establecido a través del tiempo:
+    
+    .row.justify-content-around.align-items-center.mt-5
+
+      p Veamos a continuación, la normatividad de ahorro y el uso eficiente del agua, que se han establecido a través del tiempo:
+
       p El desarrollo de los programas de ahorro y uso eficiente inicia hacia 1974. Año tras año los programas se han ido actualizando hasta lo que rige en la actualidad; en el gráfico se puede observar su evolución:
       
       ImagenInfografica.color-primario
@@ -186,54 +165,48 @@
             img(src='@/assets/curso/temas/imagen-infografia-puntocaliente.png', alt='Texto que describa la imagen')
             //figcaption Leyenda de la imagen
 
-        .tarjeta.tarjetas-info-punto-caliente.p-3(x="8%" y="44%" numero="1")
+        .tarjeta.color-secundario.p-3(x="8%" y="44%" numero="1")
           //.h5.mb-2 titulo
           p.texto-tarjetas-punto-caliente En el año 1974 nace el Código Nacional de Recursos Naturales Renovables mediante el Decreto – Ley 2811 en el que se establece regular la conducta humana respecto al ambiente y los recursos naturales renovables y las relaciones que surgen del aprovechamiento de los mismos.               
 
-        .tarjeta.tarjetas-info-punto-caliente.p-3(x="8%" y="68%" numero="2")
+        .tarjeta.color-secundario.p-3(x="8%" y="68%" numero="2")
           //.h5.mb-2 titulo
           p.texto-tarjetas-punto-caliente En los años 1977 y 1978, mediante los decretos 1449 y 1541, respectivamente, se fija la regulación en cuanto al manejo de cauces de agua y el impacto de sustancias contaminantes en las mismas. Así se reiteran las disposiciones y lineamientos del Código Nacional de Recursos Naturales Renovables.
 
-        .tarjeta.tarjetas-info-punto-caliente.p-3(x="8%" y="90%" numero="3")
+        .tarjeta.color-secundario.p-3(x="8%" y="90%" numero="3")
           //.h5.mb-2 titulo
           p.texto-tarjetas-punto-caliente Posteriormente, en el año 2015, se dispone el Decreto Único Reglamentario 1076 del sector Ambiente y Desarrollo Sostenible con el fin de compilar y racionalizar las normas de carácter reglamentario que lo rigen, incluyendo las disposiciones del Decreto 1541 de 1978.
 
-        .tarjeta.tarjetas-info-punto-caliente.p-3(x="37.5%" y="49%" numero="4")
+        .tarjeta.color-secundario.p-3(x="37.5%" y="49%" numero="4")
           //.h5.mb-2 titulo
           p.texto-tarjetas-punto-caliente En el año 1997 se expide la Ley 373 en la que se formaliza el programa para el “Uso eficiente y ahorro del agua” con el fin de regular todo plan ambiental regional y municipal enfocado hacia tal sentido
 
-        .tarjeta.tarjetas-info-punto-caliente.p-3(x="37.5%" y="68%" numero="5")
+        .tarjeta.color-secundario.p-3(x="37.5%" y="68%" numero="5")
           //.h5.mb-2 titulo
           p.texto-tarjetas-punto-caliente En el año 2002, el Ministerio de Ambiente, Vivienda y Desarrollo Territorial, desde su Dirección Sectorial, publicó la “Guía de ahorro y uso eficiente del agua”, en la que se presentan las Estrategias AYUEDA para generar una producción más limpia en pro de la preservación del recurso hídrico.
 
-        .tarjeta.tarjetas-info-punto-caliente.p-3(x="37.5%" y="90%" numero="6")
+        .tarjeta.color-secundario.p-3(x="37.5%" y="90%" numero="6")
           //.h5.mb-2 titulo
           p.texto-tarjetas-punto-caliente En el año 2010 el Viceministerio de Ambiente publicó la política nacional para la Gestión integral del recurso hídrico (PNGIRH), con el fin de instituir los objetivos, estrategias, metas, indicadores y líneas de acción estratégica para el manejo del recurso hídrico en el país en un lapso de doce años.
 
 
-        .tarjeta.tarjetas-info-punto-caliente.p-3(x="67%" y="44%" numero="7")
+        .tarjeta.color-secundario.p-3(x="67%" y="44%" numero="7")
           //.h5.mb-2 titulo
           p.texto-tarjetas-punto-caliente Teniendo en cuenta todos los instrumentos normativos hasta esa fecha (2010), el Ministerio de Ambiente y Desarrollo Sostenible elaboró un diagnóstico del grado de implementación de la guía para el período 2012-2016, identificando que es necesaria la actualización teórica con base en lineamientos nacionales e internacionales.
 
-        .tarjeta.tarjetas-info-punto-caliente.p-3(x="67%" y="68%" numero="8")
+        .tarjeta.color-secundario.p-3(x="67%" y="68%" numero="8")
           //.h5.mb-2 titulo
           p.texto-tarjetas-punto-caliente En este orden de ideas, en el año 2018 se expiden el Decreto 1090 y la Resolución 1257 que compila el Decreto 1076 de 2015 en lo relacionado con el programa para el uso eficiente y ahorro de agua y su aplicación en los entes territoriales responsables. 
 
-        .tarjeta.tarjetas-info-punto-caliente.p-3(x="67%" y="90%" numero="9")
+        .tarjeta.color-secundario.p-3(x="67%" y="90%" numero="9")
           //.h5.mb-2 titulo
           p.texto-tarjetas-punto-caliente Para continuar con el programa, en ese mismo año el Departamento Nacional de Planeación (DNP) mediante el Consejo Nacional de Política Económica y Social (CONPES 3934) elaboró la Política de Crecimiento Verde, que tiene como propósito impulsar hacia 2030 el aumento de la productividad y la competitividad económica del país, así como asegurar el uso sostenible de la riqueza natural (DNP, 2018).
 
-    separador
-    br
+    .row.mt-5
+      h3 Técnicas de conservación
 
-    .row.justify-content-around.align-items-center
+      p De acuerdo al déficit de agua que se presenta en algunas regiones, se hace necesario buscar alternativas que permitan acceder al recurso para satisfacer necesidades productivas, ecosistémicas y humanas; para lograrlo, se aplica una serie de técnicas:
 
-      #tecnicas_de_conservacion
-      .titulo-segundo.color-acento-contenido
-        h2 2.2 Técnicas de conservación
-
-      p Teniendo en cuenta el déficit de agua que se presenta en algunas regiones es necesario buscar alternativas que permitan acceder al recurso para satisfacer necesidades productivas, ecosistémicas y humanas, para ello se aplican unas técnicas, que se describen a continuación, para favorecer la conservación:
-      
 
       figure
         img(src='@/assets/curso/temas/imagen-fondo-slider-tema2.png').imagen-fondo-slider-tema2
@@ -278,27 +251,19 @@
               figure
                 img(src='@/assets/curso/temas/imagen4-slider-tema2.png')
 
-    separador
-    br
-    .row.justify-content-around.align-items-center
+    .row.mt-5
+      h3 Diseño de estructuras
       
-      #diseno_de_estructuras
-      .titulo-segundo.color-acento-contenido
-        h2 2.3 Diseño de estructuras
-      br
-      figure
-          img(src='@/assets/curso/temas/imagen-fondo-diseno-estructuras.png').imagen-fondo-diseno-de-estructuras
+    .row.justify-content-center.align-items-center.mt-5.bgr2-tema-1.p-4
+      .col-lg-8
+        p Para un adecuado manejo y conservación del recurso hídrico se tiene en cuenta una amplia variedad de técnicas y estrategias que buscan promover alternativas de solución a las problemáticas de las comunidades, estas se enmarcan en los <b>"Programas para el uso eficiente y ahorro del agua (PUEAA)" programas a los que deben acceder los usuarios como herramienta en la conformación de planes y proyectos que tengan dentro de sus objetivos el manejo de aguas</b>. Hay que mencionar también que los entes gubernamentales ambientales del país han construido manuales que le facilitan a la población en general ubicarse en un contexto real con respecto al uso del recurso, buscando sensibilizar y reglamentar el consumo y su aprovechamiento. Así se fomenta la implementación de estructuras híbridas en las que se plantea la utilización de materiales tanto orgánicos como inertes para darle un manejo óptimo a las aguas superficiales y subterráneas bajo parámetros de calidad y sostenibilidad. 
 
-      .row.bloque-diseno-de-estructuras
-        .col-8
-          p.p-4 #[strong  Para un adecuado manejo y conservación del recurso hídrico se tiene en cuenta una amplia variedad de técnicas y estrategias que buscan promover alternativas de solución a las problemáticas de las comunidades, estas se enmarcan en los ]
-            span.etiqueta #[strong "Programas para el uso eficiente y ahorro del agua (PUEAA)" programas a los que deben acceder los usuarios como herramienta en la conformación de planes y proyectos que tengan dentro de sus objetivos el manejo de aguas.]
-            | Hay que mencionar también que los entes gubernamentales ambientales del país han construido manuales que le facilitan a la población en general ubicarse en un contexto real con respecto al uso del recurso, buscando sensibilizar y reglamentar el consumo y su aprovechamiento. Así se fomenta la implementación de estructuras híbridas en las que se plantea la utilización de materiales tanto orgánicos como inertes para darle un manejo óptimo a las aguas superficiales y subterráneas bajo parámetros de calidad y sostenibilidad. Dichas estructuras se encuentran inmersas en los planes de manejo ambiental que presentan las entidades encargadas, en donde se plantea el esqueleto de la fuente a impactar con las convenciones y procedimientos a seguir para garantizar un tratamiento acorde con la normativa vigente emitida por el Ministerio de Ambiente y Desarrollo Sostenible.
+        p Dichas estructuras se encuentran inmersas en los planes de manejo ambiental que presentan las entidades encargadas, en donde se plantea el esqueleto de la fuente a impactar con las convenciones y procedimientos a seguir para garantizar un tratamiento acorde con la normativa vigente emitida por el Ministerio de Ambiente y Desarrollo Sostenible.
 
-        .col-4
-          figure
-          img(src='@/assets/curso/temas/imagen-diseno-estructuras.png').imagen-diseno-de-estructuras
-
+      .col-lg-4
+         figure
+          img(src='@/assets/curso/temas/tema2/img1.svg')
+           
       
           
 

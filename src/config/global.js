@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Manejo y conservación del recurso hídrico',
     descripcionCurso:
-      'El desarrollo natural del ecosistema permite acceder al recurso hídrico como fuente de vida. Al reconocer su importancia se establecen los métodos de manejo, conservación y monitoreo con el fin de promover su uso responsable en el marco del desarrollo sostenible del país.',
+      'El desarrollo natural del ecosistema, permite acceder al recurso hídrico como fuente de vida. Al reconocer su importancia, se establecen los métodos de manejo, conservación y monitoreo, con el fin de promover su uso responsable en el marco del desarrollo sostenible del país.',
     imagenBannerPrincipal: require('@/assets/curso/portada/imagen-banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -129,7 +129,7 @@ export default {
   },
   complementario: [
     {
-      tema: '2.1. Manejo y uso sostenible',
+      tema: 'Conservación del agua',
       referencia:
         'Corte Constitucional. (18 de diciembre de 1974). Decreto 2811. Por el cual se dicta el Código Nacional de Recursos Naturales Renovables y de Protección al Medio Ambiente. ',
       tipo: 'Norma',
@@ -137,25 +137,25 @@ export default {
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=1551',
     },
     {
-      tema: '2.1. Manejo y uso sostenible',
+      tema: 'Conservación del agua',
       referencia:
-        'Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2010). Política Nacional para la Gestión Integral del Recurso Hídrico. ',
+        'Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2010). <em>Política Nacional para la Gestión Integral del Recurso Hídrico</em>. ',
       tipo: 'Política',
       link:
         'https://www.minambiente.gov.co/wp-content/uploads/2021/10/Politica-nacional-Gestion-integral-de-recurso-Hidrico-web.pdf',
     },
     {
-      tema: '2.2. Técnicas de conservación',
+      tema: 'Conservación del agua',
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible. (2018). Guía técnica de criterios para el acotamiento de las rondas hídricas en Colombia.',
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2018). <em>Guía técnica de criterios para el acotamiento de las rondas hídricas en Colombia</em>.',
       tipo: 'Guía',
       link:
         'https://www.minambiente.gov.co/wp-content/uploads/2022/02/GUIA-PARA-EL-ACOTAMIENTO-DE-LAS-RONDAS-HIDRICAS-VF.pdf',
     },
     {
-      tema: '2.2. Técnicas de conservación',
+      tema: 'Conservación del agua',
       referencia:
-        'Agencia de Cooperación Internacional del Japón. (2015). Guía Técnica para cosechar el agua de lluvia.',
+        'Agencia de Cooperación Internacional del Japón. (2015). <em>Guía Técnica para cosechar el agua de lluvia</em>.',
       tipo: 'Guía',
       link:
         'https://www.jica.go.jp/project/ecuador/001/materials/ku57pq000011cym2-att/water_harvest_sp.pdf',
@@ -216,43 +216,43 @@ export default {
   referencias: [
     {
       referencia:
-        'Bautista, A., Tovar, J. y Mancilla, O. (s.f.). ¿Puede utilizarse el agua atmosférica para el consumo doméstico y universal? [Archivo PDF]. Agro Productividad.',
+        'Bautista, A., Tovar, J. y Mancilla, O. (s.f.). <em>¿Puede utilizarse el agua atmosférica para el consumo doméstico y universal?</em> [Archivo PDF]. Agro Productividad.',
       link:
         'https://revista-agroproductividad.org/index.php/agroproductividad/article/download/459/339/778',
     },
     {
       referencia:
-        'Bautista, A., Mendoza, M., Cruz, F., Álvarez, C. y Duarte, H. (2018). Potencial de Captura de Agua Atmosférica en el Noroeste de México. Interciencia, 43(10), 711-715.',
+        'Bautista, A., Mendoza, M., Cruz, F., Álvarez, C. y Duarte, H. (2018). Potencial de Captura de Agua Atmosférica en el Noroeste de México. <em>Interciencia, 43</em>(10), 711-715.',
       link:
         'https://www.redalyc.org/journal/339/33957861007/html/#:~:text=La%20captura%20de%20agua%20atmosf%C3%A9rica%20es%20una%20tecnolog%C3%ADa%20simple%20y,et%20al.%2C%202012',
     },
     {
       referencia:
-        'Cerquera, K. (2022). Los ecosistemas más importantes de Colombia. Fundación Red de Árboles.',
+        'Cerquera, K. (2022). <em>Los ecosistemas más importantes de Colombia</em>. Fundación Red de Árboles.',
       link:
         'https://www.reddearboles.org/noticias/nwarticle/556/1/LosecosistemasmsimportantesdeColombia',
     },
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible. (s.f.). Uso Eficiente y Ahorro del Agua.',
+        'Ministerio de Ambiente y Desarrollo Sostenible. (s.f.). <em>Uso Eficiente y Ahorro del Agua</em>.',
       link:
         'https://www.minambiente.gov.co/gestion-integral-del-recurso-hidrico/uso-eficiente-y-ahorro-del-agua/',
     },
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible. (2018). Guía técnica de criterios para el acotamiento de las rondas hídricas en Colombia.',
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2018). <em>Guía técnica de criterios para el acotamiento de las rondas hídricas en Colombia</em>.',
       link:
         'https://www.minambiente.gov.co/wp-content/uploads/2022/02/GUIA-PARA-EL-ACOTAMIENTO-DE-LAS-RONDAS-HIDRICAS-VF.pdf',
     },
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible. (2019). 10 ecosistemas para enamorarse de Colombia.',
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2019). <em>10 ecosistemas para enamorarse de Colombia</em>.',
       link:
         'https://www.minambiente.gov.co/bosques-biodiversidad-y-servicios-ecosistemicos/10-ecosistemas-para-enamorarse-de-colombia/#:~:text=En%20nuestro%20pa%C3%ADs%20convergen%2091,arrecifes%20coralinos%20y%20pastos%20marinos',
     },
     {
       referencia:
-        'Novillo, C. (2022). ¿Cuáles son los ecosistemas de Colombia? Ecología verde',
+        'Novillo, C. (2022). <em>¿Cuáles son los ecosistemas de Colombia?</em> Ecología verde',
       link:
         'https://www.ecologiaverde.com/cuales-son-los-ecosistemas-de-colombia-2012.html',
     },
@@ -273,6 +273,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
+
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',

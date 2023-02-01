@@ -6,31 +6,18 @@
       .titulo-principal__numero
         span 1
       h1 Ecosistemas estratégicos
-
-    
-    
-    .row
-        figure
-          img(src="@/assets/curso/temas/imagen-fondo-ecosistemas.svg").imagen-fondo-tema1-ecosistemas
-
-        p Al comenzar este recorrido temático se hablará de ecosistemas estratégicos como estructuras naturales que proveen y aseguran las condiciones básicas para la supervivencia de las especies de un hábitat.
-
-        .col-lg-6
-            p.p-4.texto-tema1-primera-fila El hábitat comprende las condiciones naturales o artificiales que rodean a los seres vivos en una región geográfica, en este sentido los ecosistemas estratégicos ayudan a mantener el equilibrio entre lo biótico y lo abiótico brindando un balance en los diferentes procesos ecológicos como el clima, los suelos, la renovación y mantenimiento de aguas y la preservación de la diversidad. En esta misma línea resulta importante señalar el término de nicho ecológico para referirse a la función que tiene cada una de las especies pertenecientes a un ecosistema, por ejemplo, los consumidores son aquellas especies que no producen su propio alimento sino que acuden al producido por las plantas; mientras que los descomponedores son los encargados de descomponer la materia orgánica, entre ellos se encuentran las larvas, los hongos y las bacterias; la comunidad biótica, que cobija al conjunto de poblaciones que viven en una misma región; y la población, que es el conjunto de individuos de una misma especie que viven en una región específica. Las relaciones entre ellos pueden ser visualizadas como tuberías a través de las cuales se mueven comida, energía y desperdicios.
-
-        .col-lg-6
-            figure
-              img(data-aos="fade-left")(src="@/assets/curso/temas/imagen-tema1-ecosistemas.png").imagen-tema1-primera-fila
-              
+ 
+    .row.justify-content-center.bgr1-tema-1.p-4
+      .col-lg-7
+        p.text-white El hábitat comprende las condiciones naturales o artificiales que rodean a los seres vivos en una región geográfica, en este sentido los ecosistemas estratégicos ayudan a mantener el equilibrio entre lo biótico y lo abiótico brindando un balance en los diferentes procesos ecológicos como el clima, los suelos, la renovación y mantenimiento de aguas y la preservación de la diversidad. En esta misma línea resulta importante señalar el término de nicho ecológico para referirse a la función que tiene cada una de las especies pertenecientes a un ecosistema, por ejemplo, los consumidores son aquellas especies que no producen su propio alimento sino que acuden al producido por las plantas; mientras que los descomponedores son los encargados de descomponer la materia orgánica, entre ellos se encuentran las larvas, los hongos y las bacterias; la comunidad biótica, que cobija al conjunto de poblaciones que viven en una misma región; y la población, que es el conjunto de individuos de una misma especie que viven en una región específica. Las relaciones entre ellos pueden ser visualizadas como tuberías a través de las cuales se mueven comida, energía y desperdicios.
       
-    br
-    br
-    br
-    br
+      .col-lg-5
+        figure
+          img(src="@/assets/curso/temas/tema1/img1.png")
+
     
-    .row.justify-content-around.align-items-center
+    .row.justify-content-around.align-items-center.mt-5
         .col-md.col-lg-6
-          h4 Veamos a continuación la importancia del equilibrio ecológico
           
           p Así como la lluvia, el viento, el clima y los nutrientes del suelo son factores que mantienen la armonía del sistema, cada una de las especies pertenecientes a la cadena trófica es indispensable para conservar un equilibrio ecológico. Es por esta razón que cuando se presentan eventos naturales, como los terremotos, las erupciones volcánicas o incendios forestales, se genera un desequilibrio ecológico que afecta a todas las especies presentes.
           
@@ -43,12 +30,10 @@
           figure
             img(src="@/assets/curso/temas/imagen-importancia-equilibrio-ecologico.png")
         
-        p En consecuencia con lo anterior, la falta de algún elemento en la cadena trófica afectará a los que dependen de él. Por ejemplo, si desaparece el depredador que controla la población, esta se reproducirá exageradamente hasta convertirse en una plaga. De igual forma sucede en las ciudades: al no estar presentes las serpientes y las aves rapaces, las ratas se convierten en una plaga. Cuando se genera un desequilibrio ecológico, se lleva a las especies hasta el extremo de la pérdida total, lo que genera un impacto fatal en la cadena trófica y quebranta los principios rectores de la ecología sintetizados por Barry Commoner en el año 1873 como las bases de la ecología moderna. Estos principios mencionan lo siguiente:
+        p.mt-5 La falta de algún elemento en la cadena trófica afectará a los que dependen de él. Por ejemplo, si desaparece el depredador que controla la población, esta se reproducirá exageradamente hasta convertirse en una plaga. De igual forma sucede en las ciudades: al no estar presentes las serpientes y las aves rapaces, las ratas se convierten en una plaga. Cuando se genera un desequilibrio ecológico, se lleva a las especies hasta el extremo de la pérdida total, lo que genera un impacto fatal en la cadena trófica y quebranta los principios rectores de la ecología sintetizados por Barry Commoner en el año 1873 como las bases de la ecología moderna. Estos principios mencionan lo siguiente:
 
-    br
-    br
     
-    .bg--img_03
+    .bg--img_03.mt-5
 
       figure
           img(src="@/assets/curso/temas/imagen-de-fondo-acordeon-tema-1.png").imagen-de-fondo-acordeon-tema-1
@@ -78,9 +63,6 @@
         p Lo anterior representa un llamado urgente y necesario para mantener los ecosistemas y disminuir el grado de afectación a la biodiversidad.
     
     .row.justify-content-around.align-items-center
-      
-      
-      
 
       .col-lg-10
         
@@ -91,38 +73,31 @@
             .col-4
               figure
                 img(src="@/assets/curso/temas/imagen-cajon-tema1.png").imagen-cajon-tema1
-    br
-    p A continuación encontrará las características de cada uno de los ecosistemas mencionados anteriormente:
-    br
-    br
 
 
-    .row.justify-content-around.align-items-center
+    p.mt-5 Las características de cada uno de los ecosistemas mencionados anteriormente, son:
+
+
+    .row.justify-content-around.align-items-center.bgr1-tema-1.p-4
       
       .col-lg-12
-        
-        figure
-          img(src="@/assets/curso/temas/imagen-fondo-caracteristicas-ecosistemas.png").imagen-fondo-caracteristicas-ecosistemas
-        
-        p.bloque-texto-caracteristicas-ecosistemas-tema1.p-1 Los ecosistemas acuáticos son la fuente original de la vida en el planeta debido a que soportan la vida mejor que los terrestres, esto es posible gracias a que el agua genera una capa protectora alrededor de las plantas y de los animales, así evita que las células se resequen, provocando capacidad de flotación, transporte de alimentos al organismo y eliminación de desperdicios.
-        p.bloque-texto-caracteristicas-ecosistemas-tema1.p-1 Estos ecosistemas mantienen niveles de salinidad adecuados para conservar el fitoplancton y el zooplancton al proporcionar nichos ecológicos a muchas especies. Los ecosistemas oceánicos se clasifican en costeros y pelágicos. Los primeros comprenden desde las aguas bajas hasta el borde de la plataforma continental con una profundidad máxima de 200 metros, lo que expone altos grados de contaminación; mientras que los segundos se encuentran alejados de los continentes y se clasifican en zona fótica y afótica debido a la proporción de luz solar que reciben. Al estar lejos del hombre tienen bajos índices de contaminación. Dentro de ellos se encuentran los arrecifes corlinos que se reconocen como los más #[strong falta texto].
-        figure
-          img(src="@/assets/curso/temas/imagen-ecosistemas.svg")
-      
-      
-        
-    br
-    br
+        p.text-white Los ecosistemas acuáticos son la fuente original de la vida en el planeta debido a que soportan la vida mejor que los terrestres, esto es posible gracias a que el agua genera una capa protectora alrededor de las plantas y de los animales, así evita que las células se resequen, provocando capacidad de flotación, transporte de alimentos al organismo y eliminación de desperdicios.
 
-    .row.justify-content-around.align-items-center
+        p.text-white Estos ecosistemas mantienen niveles de salinidad adecuados para conservar el fitoplancton y el zooplancton al proporcionar nichos ecológicos a muchas especies. Los ecosistemas oceánicos se clasifican en costeros y pelágicos. Los primeros comprenden desde las aguas bajas hasta el borde de la plataforma continental con una profundidad máxima de 200 metros, lo que expone altos grados de contaminación; mientras que los segundos se encuentran alejados de los continentes y se clasifican en zona fótica y afótica debido a la proporción de luz solar que reciben. Al estar lejos del hombre tienen bajos índices de contaminación. Dentro de ellos se encuentran los arrecifes coralinos que se reconocen como los más productivos del océano y el planeta, conformados por cientos de especies con exoesqueleto, que proporcionan condiciones calcáreas a poca profundidad convirtiéndolos en puntos de atracción de vida. También están las praderas submarinas que se encuentran ubicadas a bajas profundidades, en zonas tropicales, en donde se desarrollan especies de hierbas de angiospermas, hierba de tortuga y posidonia oceánica. Finalmente, en los de zona pelágica se encuentran algas tipo sargazo y fuentes hidrotermales, en donde se desarrollan arqueas quimiosintéticas, que son la base de cadenas alimenticias propias del sistema.
+
+    .row.justify-content-around.align-items-center.mt-5
+    
+      .col-lg-12.mt-5
+        figure
+          img(src='@/assets/curso/temas/tema1/img3.svg', alt='') 
+
+    .row.justify-content-around.align-items-center.mt-5
 
         p Conozcamos más acerca de los tipos de ecosistemas que encontramos en nuestro país:
         p Por otro lado, los ecosistemas terrestres cuentan con vegetación diversa y se clasifican de acuerdo según la especie dominante. Teniendo en cuenta lo anterior, se reconocen los bosques tropicales, los pastizales, las sabanas, los matorrales, los desiertos y los manglares.
 
-        figure
-            img(src='@/assets/curso/temas/imagen-fondo-tabs-tema-1.png', alt='').imagen-fondo-tabs-tipos-ecosistemas
 
-        TabsC.color-acento-contenido.mb-5
+        TabsC.color-acento-contenido.mb-5.bgr2-tema-1
           .py-3.py-md-4(titulo="Bosques")
             .row.justify-content-center
               .col-lg-5.order-2.order-lg-1
@@ -183,18 +158,25 @@
                 //h4.txt--purpura Archivo histórico o permanente
                 p.bloque-texto-manglares-tema1 Los manglares tienen gran diversidad vegetal debido a que cuentan con altas cantidades de aguas descompuestas que se convierten en alimento de algas y otras especies. En Colombia se encuentran ubicados en los litorales pacífico y caribe; ejercen una labor fundamental de control de la contaminación y también son fuente de madera y pesca.
 
-    br
-    br
 
-    .row.justify-content-around.align-items-center
-      
-      p En el siguiente gráfico se puede observar una clasificación general de acuerdo con los ecosistemas presentes en el país:
-      br
-
-      .col-lg-12
-        
+    
+    .row.justify-content-around.align-items-center.mt-5
+      p Visualice la clasificación general, de acuerdo con los ecosistemas presentes en el país:
+    
+      .col-lg-12.mt-5
         figure
-          img(src="@/assets/curso/temas/imagen-clasificacion-ecosistemas.png").imagen-clasificacion-ecosistemas
+          img(src='@/assets/curso/temas/tema1/img2.svg', alt='')
+
+
+        
+
+          
+
+
+
+
+
+        
 
       
 </template>

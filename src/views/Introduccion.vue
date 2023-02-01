@@ -18,8 +18,10 @@
 
           .col-lg-8.col-xxl-6.ps-5.ps-sm-6.py-4.banner-principal__info
             
-            p.p-2.texto-introduccion Estimado aprendiz: bienvenido a una nueva experiencia de conocimiento. Este componente está enfocado en conocer los diferentes ecosistemas estratégicos, los mecanismos de conservación del agua, las técnicas de conservación y el manejo sostenible de los recursos. Aquí se hará un recorrido para estudiar las técnicas, parámetros, instrumentos y registros necesarios al momento de aplicar el monitoreo del recurso hídrico. 
-            p.p-2.texto-introduccion Se considera importante que antes de iniciar revise el siguiente video para contextualizar el momento de aprendizaje y pueda entender con mayor claridad los temas expuestos.
+            p.p-2.texto-introduccion Apreciado aprendiz, bienvenido a este componente formativo, el cual está enfocado en el conocimiento de los diferentes ecosistemas estratégicos, los mecanismos de conservación del agua, las técnicas de conservación y el manejo sostenible de los recursos. Se hará un recorrido para estudiar las técnicas, parámetros, instrumentos y registros necesarios, al momento de aplicar el monitoreo del recurso hídrico. 
+
+            p.p-2.texto-introduccion En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
+
 
           .col-md.col-lg-4
             img(src="@/assets/curso/temas/imagen-introduccion.svg").imagen-introduccion
