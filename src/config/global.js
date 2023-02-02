@@ -35,7 +35,6 @@ export default {
         numero: '1',
         titulo: 'Ecosistemas estratégicos',
         desarrolloContenidos: true,
-        subMenu: [],
       },
 
       {
@@ -44,26 +43,6 @@ export default {
         numero: '2',
         titulo: 'Conservación del agua',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Manejo y uso sostenible del agua',
-            hash: 'manejo_y_uso_sostenible_del_agua',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Técnicas de conservación',
-            hash: 'tecnicas_de_conservacion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Diseño de estructuras',
-            hash: 't_1_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -71,20 +50,6 @@ export default {
         numero: '3',
         titulo: 'Monitoreo técnico y participativo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Instrumentos y elementos de monitoreo',
-            hash: 'instrumentos_y_elementos_de_monitoreo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Manejo de registros',
-            hash: 'manejo_de_registros',
-          },
-        ],
       },
     ],
     subMenu: [

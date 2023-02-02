@@ -25,10 +25,8 @@
     .row.mt-5
       h4 Manejo y uso sostenible del agua
 
-      p Continuar con un uso insostenible del agua tendrá un impacto negativo en la cantidad y la calidad ya que se reducirá la eficiencia y aumentará la contaminación; así, las generaciones futuras se verán amenazadas por la poca disponibilidad de cuencas hídricas, factor que estancará las dinámicas de crecimiento económico propuestas por el desarrollo sostenible.
-    
+      p Se debe tener un uso consciente del agua, porque de no ser así, se tendría un impacto negativo en la cantidad y la calidad de la misma, debido a que se reduciría la eficiencia y aumentaría la contaminación; de esta manera, las generaciones futuras se verían amenazadas por la poca disponibilidad de cuencas hídricas, factor que estancaría las dinámicas de crecimiento económico propuestas por el desarrollo sostenible. Veamos qué se debe tener en cuenta para proyectar un manejo y un uso sostenibles:
       
-
       .row.justify-content-center.mb-5.bloque-tarjetas-tema2.mt-5
         .col-lg-11.position-relative.mt-5
           //h3.mb-4.text-center.txt--purpura Elementos determinantes para el análisis - CAC 

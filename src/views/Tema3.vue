@@ -106,7 +106,7 @@
             img(src='@/assets/curso/temas/imagen-laboratorio-tema3.png')
         
         .col-6
-          p Actualmente se cuenta con aplicaciones que gestionan lo que respecta al recurso. Está, por ejemplo, Creek Watch, que funciona para hacer seguimiento al agua en una determinada región. Por otro lado, también está la aplicación Backwater, que realiza el cálculo del perfil de la lámina de agua en un flujo constante. Open Channel Flow es otra aplicación que realiza el cálculo para vertederos y compuerta, y Fluid Mechanics es otra aplicación que representa gráficamente el nivel del agua.
+          p Actualmente se cuenta con aplicaciones que gestionan lo que respecta al recurso. Está, por ejemplo, Creek Watch, que funciona para hacer seguimiento al agua en una determinada región. Por otro lado, también está la aplicación Backwater, que realiza el cálculo del perfil de la lámina de agua en un flujo constante. <em>Open Channel Flow</em> es otra aplicación que realiza el cálculo para vertederos y compuerta, y <em>Fluid Mechanics</em> es otra aplicación que representa gráficamente el nivel del agua.
 
           p Lo anterior permite afirmar que existen diferentes métodos e instrumentos para la recolección de información con respecto al recurso hídrico. Gestionarlo se hace una tarea fácil ya que se tiene al alcance, no solo la observación y el formato, sino también la tecnología que aporta en la determinación de dicha conducta. Es necesario que se inicie con la exploración de herramientas que permitan controlar el buen uso del recurso hídrico.
 
