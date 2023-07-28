@@ -249,10 +249,10 @@
               figure
                 img(src='@/assets/curso/temas/imagen4-slider-tema2.png')
 
-    .row.mt-5
+    .row.pt-5
       h3 Diseño de estructuras
       
-    .row.justify-content-center.align-items-center.mt-5.bgr2-tema-1.p-4
+    .row.justify-content-center.align-items-center.mt-4.bgr2-tema-1.p-4
       .col-lg-8
         p Para un adecuado manejo y conservación del recurso hídrico se tiene en cuenta una amplia variedad de técnicas y estrategias que buscan promover alternativas de solución a las problemáticas de las comunidades, estas se enmarcan en los <b>"Programas para el uso eficiente y ahorro del agua (PUEAA)" programas a los que deben acceder los usuarios como herramienta en la conformación de planes y proyectos que tengan dentro de sus objetivos el manejo de aguas</b>. Hay que mencionar también que los entes gubernamentales ambientales del país han construido manuales que le facilitan a la población en general ubicarse en un contexto real con respecto al uso del recurso, buscando sensibilizar y reglamentar el consumo y su aprovechamiento. Así se fomenta la implementación de estructuras híbridas en las que se plantea la utilización de materiales tanto orgánicos como inertes para darle un manejo óptimo a las aguas superficiales y subterráneas bajo parámetros de calidad y sostenibilidad. 
 
