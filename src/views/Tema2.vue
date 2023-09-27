@@ -217,7 +217,7 @@
               .number(data-number="01")
                 h4.ps-4 Cosecha (<i>water harvesting</i>):
                 //h4.ps-4 <i>Cosecha (water harvesting):</i>
-                p.ps-4.mb-0 movimiento ancestral que se da mediante la captación, retención, almacenamiento y regulación de agua lluvia con el fin de crear una reserva disponible para las actividades agrícola, ganadera y doméstica. A fin de poner en práctica la técnica es necesario acondicionar el espacio en el cual se va a realizar la recogida y el depósito, dependiendo de la disposición final que se le dará al recurso. Es posible obtener el agua de los techos de las construcciones, en invernaderos, en las parcelas mediante láminas o lonas de plástico aprovechando la inclinación del terreno, en zanjas de infiltración y en reservorios semitechados.
+                p.ps-4.mb-0 Movimiento ancestral que se da mediante la captación, retención, almacenamiento y regulación de agua lluvia con el fin de crear una reserva disponible para las actividades agrícola, ganadera y doméstica. A fin de poner en práctica la técnica es necesario acondicionar el espacio en el cual se va a realizar la recogida y el depósito, dependiendo de la disposición final que se le dará al recurso. Es posible obtener el agua de los techos de las construcciones, en invernaderos, en las parcelas mediante láminas o lonas de plástico aprovechando la inclinación del terreno, en zanjas de infiltración y en reservorios semitechados.
             .col-6.col-lg-4
               figure
                 img(src='@/assets/curso/temas/imagen1-slider-tema2.png')
