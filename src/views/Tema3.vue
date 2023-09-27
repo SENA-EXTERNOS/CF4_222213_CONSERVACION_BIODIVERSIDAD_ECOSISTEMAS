@@ -30,7 +30,7 @@
                 img(src='@/assets/curso/temas/imagen1-carrusel-tema3.png' alt='AvatarTop')
               
             h4.texto-tarjetas-carrusel-tema3 Mira hidrométrica:
-            p.texto-tarjetas-carrusel-tema3 instrumento que cuenta con una escala graduada para medir las fluctuaciones de agua en un punto determinado de corriente. Se instala sobre la orilla más próxima al sector profundo del cauce.
+            p.texto-tarjetas-carrusel-tema3 Instrumento que cuenta con una escala graduada para medir las fluctuaciones de agua en un punto determinado de corriente. Se instala sobre la orilla más próxima al sector profundo del cauce.
             p.texto-oculto-tarjetas-tema3 Lorem ipsum dolor sit amet consectetur, adipisicing elit. At quos eveniet quia explicabo, est saepe nostrum, quasi quisquam voluptatum ut maxime porro. Quam ullam culpa rem accusamus totam vel. Obcaecati, elit
 
 
